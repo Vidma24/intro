@@ -59,9 +59,11 @@ console.log(turinys);
 
 const x = "pinigines turinys: 0";
 console.log(x);
-
+const a1 = 'pinigine papildyta: 10';
+console.log(a1);
 const y = "pinigines turinys: 10";
 console.log(y);
-
+const b1 = 'pinigine papildyta: 90';
+console.log(b1);
 const z = "pinigines turinys: 100";
 console.log(z);
